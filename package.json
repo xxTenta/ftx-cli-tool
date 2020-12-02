@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/cli.js"
+    "cli": "node ./src/index.js",
+    "cli": "node ./src/cli.js"
   },
   "keywords": [],
   "author": "",
